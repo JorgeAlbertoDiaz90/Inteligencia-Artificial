@@ -1,0 +1,4 @@
+Imagenes/Emociones.rar filter=lfs diff=lfs merge=lfs -text
+.ipynb_checkpoints/EmocionesLBPHZwei-checkpoint.xml filter=lfs diff=lfs merge=lfs -text
+XML/jorgeEigenface.xml filter=lfs diff=lfs merge=lfs -text
+XML/LBPHPersonesFix2.xml filter=lfs diff=lfs merge=lfs -text
